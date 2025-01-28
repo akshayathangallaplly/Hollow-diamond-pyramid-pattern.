@@ -1,0 +1,1 @@
+# Hollow-diamond-pyramid-pattern.
